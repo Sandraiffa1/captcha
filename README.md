@@ -38,5 +38,5 @@ An interactive C++ application using the SFML library that implements a captcha 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/captcha-program.git
+   git clone https://github.com/Sandraiffa1/captcha-program.git
    cd captcha-program
