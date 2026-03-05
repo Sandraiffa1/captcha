@@ -2,6 +2,10 @@
 
 An interactive C++ application using the SFML library that implements a captcha protection for closing the window. The program generates a random captcha of five letters, prompts the user to enter it, and closes only when the input matches.
 
+## Requirements
+- sudo apt install -y libvorbis-dev libogg-dev
+- sudo apt install -y libflac-dev
+
 ## Features
 
 - **Captcha Generation**: 
@@ -38,5 +42,5 @@ An interactive C++ application using the SFML library that implements a captcha 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sandraiffa1/captcha-program.git
+   git clone https://github.com/Sandraiffa1/captcha
    cd captcha-program
